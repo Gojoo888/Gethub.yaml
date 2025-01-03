@@ -1,0 +1,65 @@
+proxies:
+- name: 𝐋𝐢𝐧𝐤𝐠𝐨
+  server: 104.17.3.81
+  port: 443
+  type: trojan
+  password: ponsel8oxkmu42nbxv2hu
+  skip-cert-verify: true
+  sni: linkgo.tuneling.biz.id
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: linkgo.tuneling.biz.id
+  udp: true
+- name: 𝐈𝐃 𝐓𝐞𝐥𝐤𝐨𝐦
+  server: 104.17.3.81
+  type: vless
+  port: 80
+  uuid: eef6b0a4-7022-4f85-86df-3b577ccc03a7
+  tls: false
+  network: ws
+  ws-opts:
+    path: /vless
+    headers:
+      Host: web.indonesia-cloud.biz.id
+  udp: true
+- name: 𝐏𝐓. 𝐈𝐊𝐃
+  server: 104.17.3.81
+  port: 443
+  type: trojan
+  password: ponselcmc0lyj7mabxnlu
+  skip-cert-verify: true
+  sni: id-ikd.byizzi.web.id
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: id-ikd.byizzi.web.id
+  udp: true
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛 
+  server: 104.17.3.81
+  port: 443
+  type: trojan
+  password: -PSUQbDQ-36RSwZ-MBYLIA
+  skip-cert-verify: true
+  sni: web.indonesia-cloud.biz.id
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: web.indonesia-cloud.biz.id
+  udp: true
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
