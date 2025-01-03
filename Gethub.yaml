@@ -25,7 +25,7 @@ proxies:
     headers:
       Host: id-ikd.byizzi.web.id
   udp: true
-- - name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
   server: 104.17.3.81
   type: vless
   port: 80
