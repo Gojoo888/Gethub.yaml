@@ -1,5 +1,5 @@
 proxies:
-- name: 𝐋𝐢𝐧𝐤𝐠𝐨 ✅
+- name: 𝐋𝐢𝐧𝐤𝐠𝐨
   server: 104.17.3.81
   port: 443
   type: trojan
@@ -12,7 +12,7 @@ proxies:
     headers:
       Host: id-linkgo.byizzi.web.id
   udp: true
-- name: 𝐏𝐓. 𝐈𝐊𝐃 ✅
+- name: 𝐏𝐓. 𝐈𝐊𝐃
   server: 104.17.3.81
   port: 443
   type: trojan
@@ -25,7 +25,7 @@ proxies:
     headers:
       Host: id-ikd.byizzi.web.id
   udp: true
-- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛 ✅
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
   server: 104.17.3.81
   type: vless
   port: 80
@@ -37,7 +37,7 @@ proxies:
     headers:
       Host: web.indonesia-cloud.biz.id
   udp: true 
-- name: 𝐑𝐮𝐦𝐚𝐡 ✅
+- name: 𝐑𝐮𝐦𝐚𝐡
   server: 104.17.3.81
   type: vmess
   port: 80
