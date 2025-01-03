@@ -44,9 +44,9 @@ proxies:
   uuid: 2077602f-9ee8-4e5e-8f00-6e510a643468
   alterId: 0
   cipher: auto
-  tls: true
+  tls: false
   skip-cert-verify: true
-  servername: kotlin.Unit
+  servername: 
   network: ws
   ws-opts:
     path: /vmess
