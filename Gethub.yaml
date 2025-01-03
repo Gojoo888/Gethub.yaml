@@ -36,8 +36,20 @@ proxies:
     path: /vless
     headers:
       Host: web.indonesia-cloud.biz.id
+  udp: true 
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛 ✅
+  server: 104.17.3.81
+  port: 80
+  type: trojan
+  password: -PSUQbDQ-36RSwZ-MBYLIA
+  skip-cert-verify: true
+  sni: null
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: web.indonesia-cloud.biz.id
   udp: true
-
 
 #
 #
