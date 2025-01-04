@@ -5,12 +5,12 @@ proxies:
   type: trojan
   password: ponsel8oxkmu42nbxv2hu
   skip-cert-verify: true
-  sni: id-linkgo.byizzi.web.id
+  sni: linkgo.tuneling.biz.id
   network: ws
   ws-opts:
     path: /trojan
     headers:
-      Host: id-linkgo.byizzi.web.id
+      Host: linkgo.tuneling.biz.id
   udp: true
 - name: 𝐏𝐓. 𝐈𝐊𝐃
   server: 104.17.3.81
@@ -18,12 +18,12 @@ proxies:
   type: trojan
   password: ponselcmc0lyj7mabxnlu
   skip-cert-verify: true
-  sni: id-ikd.byizzi.web.id
+  sni: ikd.tuneling.biz.id
   network: ws
   ws-opts:
     path: /trojan
     headers:
-      Host: id-ikd.byizzi.web.id
+      Host: ikd.tuneling.biz.id
   udp: true
 - name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
   server: 104.17.3.81
