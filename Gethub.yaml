@@ -1,5 +1,5 @@
 proxies:
-- name: 𝐋𝐢𝐧𝐤𝐠𝐨 tessss
+- name: 𝐋𝐢𝐧𝐤𝐠𝐨
   server: 104.17.3.81
   port: 443
   type: trojan
@@ -12,7 +12,7 @@ proxies:
     headers:
       Host: id-linkgo.byizzi.web.id
   udp: true
-- name: 𝐏𝐓. 𝐈𝐊𝐃 wokehhhh
+- name: 𝐏𝐓. 𝐈𝐊𝐃
   server: 104.17.3.81
   port: 443
   type: trojan
