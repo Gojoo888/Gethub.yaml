@@ -25,7 +25,7 @@ proxies:
     headers:
       Host: ikd.tuneling.biz.id
   udp: true
-  - name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
   server: 104.17.3.81
   type: vmess
   port: 443
@@ -41,7 +41,7 @@ proxies:
     headers:
       Host: web.indonesia-cloud.biz.id
   udp: true
-  - name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛 𝐖𝐜
+- name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛 𝐖𝐜
   server: 104.17.3.81
   type: vmess
   port: 80
