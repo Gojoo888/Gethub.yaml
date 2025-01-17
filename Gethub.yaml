@@ -1,16 +1,16 @@
 proxies:
-- name: 𝐋𝐢𝐧𝐤𝐠𝐨
+- name: 𝐊𝐦𝐬𝐩
   server: 104.17.3.81
   port: 443
   type: trojan
-  password: ponsel8oxkmu42nbxv2hu
+  password: 3c0f06c1-8988-4fe1-9530-fe697dee1b28
   skip-cert-verify: true
-  sni: linkgo.tuneling.biz.id
+  sni: id-trojan-vvip-16.topvpn.my.id
   network: ws
   ws-opts:
-    path: /trojan
+    path: /websocket-trojan
     headers:
-      Host: linkgo.tuneling.biz.id
+      Host: id-trojan-vvip-16.topvpn.my.id
   udp: true
 - name: 𝐏𝐓. 𝐈𝐊𝐃
   server: 104.17.3.81
