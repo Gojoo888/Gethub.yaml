@@ -1,16 +1,19 @@
 proxies:
-- name: 𝐊𝐦𝐬𝐩
+- name: 𝐀𝐫𝐞𝐧𝐇𝐨𝐬𝐭
   server: 104.17.3.81
-  port: 443
-  type: trojan
-  password: 3c0f06c1-8988-4fe1-9530-fe697dee1b28
+  type: vmess
+  port: 80
+  uuid: ponselhxdl3jtsgp4qgzu
+  alterId: 0
+  cipher: auto
+  tls: false
   skip-cert-verify: true
-  sni: id-trojan-vvip-16.topvpn.my.id
+  servername: 
   network: ws
   ws-opts:
-    path: /websocket-trojan
+    path: /vmess
     headers:
-      Host: id-trojan-vvip-16.topvpn.my.id
+      Host: aren2.indonesia-cloud.biz.id
   udp: true
 - name: 𝐑𝐮𝐦𝐚𝐡 𝐖𝐞𝐛
   server: 104.17.3.81
